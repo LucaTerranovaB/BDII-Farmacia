@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ProyectoMultidimensional_farmacia_cubo", "ProyectoMultidimensional_farmacia_cubo.dwproj", "{0018F8E7-7FD0-4E72-9697-803EE4FBBA17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0018F8E7-7FD0-4E72-9697-803EE4FBBA17}.Development|Default.ActiveCfg = Development
+		{0018F8E7-7FD0-4E72-9697-803EE4FBBA17}.Development|Default.Build.0 = Development
+		{0018F8E7-7FD0-4E72-9697-803EE4FBBA17}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9010B229-EF5C-492F-A484-9D096D69A941}
+	EndGlobalSection
+EndGlobal
